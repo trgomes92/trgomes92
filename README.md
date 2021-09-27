@@ -1,4 +1,4 @@
-<img src="https://github.com/trgomes92/trgomes92/blob/main/trgdark4.fw.png?raw=true">
+<img src="https://github.com/trgomes92/trgomes92/blob/main/trgdark.png?raw=true">
 
 
 
