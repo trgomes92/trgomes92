@@ -1,31 +1,22 @@
 <img src="https://github.com/trgomes92/trgomes92/blob/main/trgdark.png?raw=true">
 
 
-
  <!-- Sobre mim -->
 ### Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 💬 Sobre mim:
+##
+###  🔷 **Projeto em que eu estou trabalhando no momento** 
+
+<a href="https://github.com/echo-noise/carro-limpo"><img src="https://i.ibb.co/61RWKLS/carolimpo.gif"></a>
+<a href="http://carrolimpo.epizy.com/index.html"><img src="https://i.ibb.co/ygxHVtM/DEMO2.png"></a>
+
+### 💬 Sobre mim:
 Meu nome é Thiago Rocha Gomes, sou estudante de TI atualmente cursando 8° período em Ciências da Computação na Universidade Univeritas.
 Atualmente estou me qualificando com foco no desenvolvimento em FrontEnd.
 
-  <!-- Informações de Contato -->
-
-## 🌍 Você pode me achar na web 
-
-
-<a href="https://www.linkedin.com/in/trgomes92/"><img align="left" alt="Souarvdey777 | LinkedIn" width="42px"
-src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://wa.me/+5521979569389"><img align="left" alt="Souarvdey777 | Whatsapp" width="40px"  src="https://1.bp.blogspot.com/-m8oifiCYyqc/WvI0FdiW4gI/AAAAAAAAH1Q/DY6EpI3la1Mi4I_WgXVyURIbooY-7UfPACLcBGAs/s1600/whatsapp-icon-png-iconfinder.png"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=trgomes92@gmail.com&su=&body=&bcc="><img  src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="54px" alt="mail"></a> 
-
-
-<!-- <a href="https://wa.me/+5521979569389">Whatsapp</a> -->
-<!-- <a href="https://www.linkedin.com/in/trgomes92/">Linkdin</a> -->
-
 <!-- Tecnologias -->
-
-## 💻 Tecnologias
+##
+### 💻 Tecnologias
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -46,9 +37,23 @@ src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-ori
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 -->
  <!-- Github Stats -->
- 
-## &#x1f4c8; GitHub Stats
+##
+### &#x1f4c8; GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=trgomes92&show_icons=true&theme=dark)](https://github.com/trgomes92)
+
+  <!-- Informações de Contato -->
+##
+### 🌍 Você pode me achar na web 
+
+
+<a href="https://www.linkedin.com/in/trgomes92/"><img align="left" alt="Souarvdey777 | LinkedIn" width="42px"
+src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://wa.me/+5521979569389"><img align="left" alt="Souarvdey777 | Whatsapp" width="40px"  src="https://1.bp.blogspot.com/-m8oifiCYyqc/WvI0FdiW4gI/AAAAAAAAH1Q/DY6EpI3la1Mi4I_WgXVyURIbooY-7UfPACLcBGAs/s1600/whatsapp-icon-png-iconfinder.png"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=trgomes92@gmail.com&su=&body=&bcc="><img  src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="54px" alt="mail"></a> 
+
+
+<!-- <a href="https://wa.me/+5521979569389">Whatsapp</a> -->
+<!-- <a href="https://www.linkedin.com/in/trgomes92/">Linkdin</a> -->
 
 
