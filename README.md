@@ -5,14 +5,14 @@
 ### Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ##
-###  🔷 **Projeto em que eu estou trabalhando no momento** 
+###  🔷 **Projetos** 
 
 <a href="https://github.com/echo-noise/carro-limpo"><img src="https://i.ibb.co/61RWKLS/carolimpo.gif"></a>
 <a href="http://carrolimpo.epizy.com/index.html"><img src="https://i.ibb.co/ygxHVtM/DEMO2.png"></a>
 
 ### 💬 Sobre mim:
 Meu nome é Thiago Rocha Gomes, sou estudante de TI atualmente cursando 8° período em Ciências da Computação na Universidade Univeritas.
-Atualmente estou me qualificando com foco no desenvolvimento em FrontEnd.
+Atualmente estou me qualificando em desenvolvimento  FrontEnd.
 
 <!-- Tecnologias -->
 ##
