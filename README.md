@@ -7,8 +7,15 @@
 ##
 ###  🔷 **Projetos** 
 
+#### Conversor de Moedas
+
+<a href="https://gifyu.com/image/Sz2XP"><img src="https://s10.gifyu.com/images/conversor.gif" alt="conversor.gif" border="0" /></a>
+
+##
+
+#### Carro Limpo - Sistema Administrativo para lava Rapido.
 <a href="https://github.com/echo-noise/carro-limpo"><img src="https://i.ibb.co/61RWKLS/carolimpo.gif"></a>
-<a href="http://carrolimpo.epizy.com/index.html"><img src="https://i.ibb.co/ygxHVtM/DEMO2.png"></a>
+##
 
 ### 💬 Sobre mim:
 Meu nome é Thiago Rocha Gomes, sou estudante de TI atualmente cursando 8° período em Ciências da Computação na Universidade Univeritas.
